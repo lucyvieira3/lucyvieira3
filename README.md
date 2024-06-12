@@ -4,12 +4,12 @@
 
 📊 I'm currently as a data analyst at Yellow & Lavender.
 📈 My degree is in business administration.
-💡 I speak Spanish, Portuguese as well.
+💡 I speak 3 languages (Spanish, Portuguese, English)
 
 🛠 Skills
 
-Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib) | 
-Tools:  |  | Spreadsheets | Tableau | Power BI | Power Apps
+Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter) | 
+Tools:  | BI Tools | Excel | Tableau | Power BI | Power Apps | Google Analytics | Azure
 Misc: Git | Github
 
 📚 Projects
