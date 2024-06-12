@@ -17,7 +17,7 @@ Misc: Git | Github
 📚 Projects
 
 View my portfolio projects on my website.
-View my coding projects on [Github].(https://github.com/lucyvieira3)
+<a href="https://github.com/lucyvieira3">View my coding projects on Github!</a>
 
 ⭐ Favorite Projects
 
