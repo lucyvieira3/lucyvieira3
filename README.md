@@ -2,7 +2,7 @@
 
 🤓 About Me
 
-📊 I'm currently as a data analyst at Yellow & Lavender.
+📊 I'm currently a data analyst at Yellow & Lavender.
 
 📈 My degree is in business administration.
 
@@ -17,7 +17,7 @@ Misc: Git | Github
 📚 Projects
 
 View my portfolio projects on my website.
-View my coding projects on Github.
+View my coding projects on [Github].(https://github.com/lucyvieira3)
 
 ⭐ Favorite Projects
 
