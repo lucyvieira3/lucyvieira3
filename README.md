@@ -3,7 +3,9 @@
 🤓 About Me
 
 📊 I'm currently as a data analyst at Yellow & Lavender.
+
 📈 My degree is in business administration.
+
 💡 I speak 3 languages (Spanish, Portuguese, English)
 
 🛠 Skills
