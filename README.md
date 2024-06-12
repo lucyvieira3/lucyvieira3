@@ -1,6 +1,6 @@
-👋🏾 ##Hi, I’m Lucy, a data analyst from the US.
+👋🏾 Hi, I’m Lucy, a data analyst from the US.
 
-🤓 #About Me
+🤓 About Me
 
 📊 I'm currently as a data analyst at Yellow & Lavender.
 📈 My degree is in business administration.
