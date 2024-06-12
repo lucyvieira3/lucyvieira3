@@ -16,17 +16,16 @@ Misc: Git | Github
 
 📚 Projects
 
-View my portfolio projects on my website.
-<a href="https://github.com/lucyvieira3">View my coding projects on Github!</a>
+<a href="https://mavenanalytics.io/profile/Lucy-Vieira/201250221">View my portfolio projects on my website!🤖</a>
+
+<a href="https://github.com/lucyvieira3">View my coding projects on Github!👾</a>
 
 ⭐ Favorite Projects
 
-Deep Work Dashboard - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
-SQL Course Queries - Wrote all of the SQL queries in Luke Barousse's free SQL course.
-Python Tutorial Code - Collaborated with Luke Barousse to write the code for our free Python for Data Analytics course.
-
 📫 Connect with Me
 
-Website
-LinkedIn
-Email
+<a href="https://mavenanalytics.io/profile/Lucy-Vieira/201250221">Website✌🏽</a>
+
+
+<a href="https://www.linkedin.com/in/lucia-pazos-v/">LinkedIn🫱🏽‍🫲🏼</a>
+
