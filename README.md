@@ -12,8 +12,10 @@
 
 🛠 Skills
 
-Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter) | 
+Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter)
+
 Tools:  | BI Tools | Excel | Tableau | Power BI | Power Apps | Google Analytics | Azure
+
 Misc: Git | Github
 
 📚 Projects
