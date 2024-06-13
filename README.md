@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 - 📈 My degree is in business administration.
 - 💼 Experience: Proven track record as a Business Analyst and Data Analyst, skilled in utilizing data to enhance business operations and strategy.
 - 🌱 Currently Learning: Machine learning techniques, data engineering best practices, and new data visualization tools.
-- 💡 I speak 3 languages (Spanish, Portuguese, English)
+- 💡 I speak 3 languages (English [first language], Portuguese, and Spanish)
 - 🐶🐱 I love animals and I have 3 cats and 2 dogs!
 
 ## 🛠 Skills
