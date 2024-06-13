@@ -41,5 +41,5 @@ Welcome to my GitHub profile! I'm a dynamic data professional. I thrive on turni
 <a href="https://www.linkedin.com/in/lucia-pazos-v/">LinkedIn 🫱🏽‍🫲🏼</a>
 
 
-<a href="lucyvieira03@outlook.com"> Email 📧</a>
+Email 📧 <u>lucyvieira03@outlook.com</u>
 
