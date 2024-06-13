@@ -2,21 +2,16 @@
 
 🤓 About Me
 
-📊 I'm currently a data analyst at Yellow & Lavender.
-
-📈 My degree is in business administration.
-
-💡 I speak 3 languages (Spanish, Portuguese, English)
-
-🐶🐱 I love animals and I have 3 cats and 2 dogs!
+- 📊 I'm currently a data analyst at Yellow & Lavender.
+- 📈 My degree is in business administration.
+- 💡 I speak 3 languages (Spanish, Portuguese, English)
+- 🐶🐱 I love animals and I have 3 cats and 2 dogs!
 
 🛠 Skills
 
-Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter)
-
-Tools:  | BI Tools | Excel | Tableau | Power BI | Power Apps | Google Analytics | Azure
-
-Misc: Git | Github
+-Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter)
+- Tools:  | BI Tools | Excel | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebooks
+- Misc: Git | Github
 
 📚 Projects
 
