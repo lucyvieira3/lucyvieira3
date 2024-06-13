@@ -1,9 +1,13 @@
-👋🏾 Hi, I’m Lucy, a data analyst from the US.
+# 👋🏾 Hey there, I’m Lucy!
+
+I'm a data analyst from the US.
 
 🤓 About Me
 
 - 📊 I'm currently a data analyst at Yellow & Lavender.
 - 📈 My degree is in business administration.
+- 💼 Experience: Proven track record as a Business Analyst and Data Analyst, skilled in utilizing data to enhance business operations and strategy.
+- 🌱 Currently Learning: Machine learning techniques, data engineering best practices, and new data visualization tools.
 - 💡 I speak 3 languages (Spanish, Portuguese, English)
 - 🐶🐱 I love animals and I have 3 cats and 2 dogs!
 
@@ -25,4 +29,7 @@
 
 
 <a href="https://www.linkedin.com/in/lucia-pazos-v/">LinkedIn 🫱🏽‍🫲🏼</a>
+
+
+<a href="lucyvieira03@outlook.com"> Email 📧</a>
 
