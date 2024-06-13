@@ -9,7 +9,7 @@
 
 🛠 Skills
 
--Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter)
+- Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter)
 - Tools:  | BI Tools | Excel | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebook
 - Misc: Git | Github
 
