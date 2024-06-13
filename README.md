@@ -1,6 +1,6 @@
 # 👋🏾 Hey there, I’m Lucy!
 
-Welcome to my GitHub profile! I'm a dynamic data professional. I thrive on turning complex data into actionable insights and driving impactful business decisions.
+Welcome to my GitHub profile! I'm a dynamic data professional that thrives on turning complex data into actionable insights and driving impactful business decisions.
 
 ## 🤓 About Me
 
