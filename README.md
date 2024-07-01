@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 
 📚 Projects
 
-<a href="https://mavenanalytics.io/profile/Lucy-Vieira/201250221">View my portfolio projects on my website! 🤖</a>
-
 <a href="https://github.com/lucyvieira3">View my coding projects on Github! 👾</a>
 
 ## 📜 Certifications 
