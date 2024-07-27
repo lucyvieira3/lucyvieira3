@@ -9,12 +9,11 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 - 💼 Experience: Proven track record as a Business Analyst and Data Analyst, skilled in utilizing data to enhance business operations and strategy.
 - 🌱 Currently Learning: Machine learning techniques, data engineering best practices, and new data visualization tools.
 - 💡 Although English is my first language, I also speak Spanish and Portuguese.
-- 🐶🐱 I love animals and I have 3 cats and 2 dogs!
 
 ## 🛠 Skills
 
-- Programming Languages: SQL (MySQL) | Python (Pandas, NumPy, Matplotlib, Jupyter)
-- Tools:  | BI Tools | Excel | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebook
+- Programming Languages: SQL (MySQL, T-SQL, SSMS) | Python (Pandas, NumPy, Matplotlib, Jupyter) | C##
+- Tools: BI Tools | ERP Systems | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebook
 - Misc: Git | Github
 
 📚 Projects
@@ -32,9 +31,6 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 
 
 ## 📫 Connect with Me
-
-<a href="https://mavenanalytics.io/profile/Lucy-Vieira/201250221">Website ✌🏽</a>
-
 
 <a href="https://www.linkedin.com/in/lucia-pazos-v/">LinkedIn 🫱🏽‍🫲🏼</a>
 
