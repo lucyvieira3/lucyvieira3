@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 
 ## 🤓 About Me
 
-- 📊 I'm currently a System Analyst at TICO (Terminal Investment Corporation)
-- 📈 My degree is in business administration.
+- 📊 I'm currently a System Analyst at TICO (Terminal Investment Corporation).
+- 📈 My degree is in BI.
 - 💼 Experience: Proven track record as a Business Analyst and Data Analyst, skilled in utilizing data to enhance business operations and strategy.
 - 🌱 Currently Learning: Machine learning techniques, data engineering best practices, and new data visualization tools.
 - 💡 Although English is my first language, I also speak Spanish and Portuguese.
