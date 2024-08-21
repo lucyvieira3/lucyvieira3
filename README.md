@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 - Tools: BI Tools | ERP Systems | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebook
 - Misc: Git | Github
 
-📚 Projects
-
-<a href="https://github.com/lucyvieira3">View my coding projects on Github! 👾</a>
-
 ## 📜 Certifications 
 
 - Analyze Data with SQL Skill Path (Codecademy)
