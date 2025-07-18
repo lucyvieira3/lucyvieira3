@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a dynamic data professional that thrives on tu
 
 ## 🛠 Skills
 
-- Programming Languages: SQL (MySQL, T-SQL, SSMS) | Python (Pandas, NumPy, Matplotlib, Jupyter) | C##
-- Tools: BI Tools | ERP Systems | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebook
+- Programming Languages: SQL (MySQL, T-SQL, SSMS) | Python (Pandas, NumPy, Matplotlib, Jupyter) | C## | JSON
+- Tools: BI Tools | ERP Systems | Tableau | Power BI | Power Apps | Google Analytics | Azure | Jupyter notebook | SaaS 
 - Misc: Git | Github
 
 ## 📜 Certifications 
